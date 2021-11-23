@@ -1,3 +1,6 @@
 # treino
 nome dos colaboradores
-Brendo
+Caio do Carmo
+matheus anzzulin
+Emerson
+Daniel Aquino
