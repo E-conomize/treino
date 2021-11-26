@@ -5,3 +5,4 @@ matheus anzzulin
 Emerson
 Daniel Aquino
 Brendo Oliveira
+Meta 2 horas por dia 
